@@ -1,0 +1,15 @@
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\bin\Debug\netcoreapp3.1\EasyPeasySQLService.deps.json
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\bin\Debug\netcoreapp3.1\EasyPeasySQLService.dll
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\obj\Debug\netcoreapp3.1\EasyPeasySQLService.csprojAssemblyReference.cache
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\obj\Debug\netcoreapp3.1\EasyPeasySQLService.AssemblyInfoInputs.cache
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\obj\Debug\netcoreapp3.1\EasyPeasySQLService.AssemblyInfo.cs
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\bin\Debug\netcoreapp3.1\EasyPeasyDataModel.dll
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\bin\Debug\netcoreapp3.1\EasyPeasySQLService.runtimeconfig.json
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\bin\Debug\netcoreapp3.1\EasyPeasySQLService.runtimeconfig.dev.json
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\bin\Debug\netcoreapp3.1\EasyPeasySQLService.pdb
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\bin\Debug\netcoreapp3.1\EasyPeasyDataModel.pdb
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\obj\Debug\netcoreapp3.1\EasyPeasySQLService.csproj.CopyComplete
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\obj\Debug\netcoreapp3.1\EasyPeasySQLService.dll
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\obj\Debug\netcoreapp3.1\EasyPeasySQLService.pdb
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\obj\Debug\netcoreapp3.1\EasyPeasySQLService.csproj.CoreCompileInputs.cache
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasySQLService\obj\Debug\netcoreapp3.1\EasyPeasySQLService.genruntimeconfig.cache

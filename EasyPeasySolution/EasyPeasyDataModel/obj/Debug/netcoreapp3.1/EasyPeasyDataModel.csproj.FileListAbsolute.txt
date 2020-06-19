@@ -1,0 +1,9 @@
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\bin\Debug\netcoreapp3.1\EasyPeasyDataModel.deps.json
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\bin\Debug\netcoreapp3.1\EasyPeasyDataModel.dll
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\bin\Debug\netcoreapp3.1\EasyPeasyDataModel.pdb
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\obj\Debug\netcoreapp3.1\EasyPeasyDataModel.csprojAssemblyReference.cache
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\obj\Debug\netcoreapp3.1\EasyPeasyDataModel.AssemblyInfoInputs.cache
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\obj\Debug\netcoreapp3.1\EasyPeasyDataModel.AssemblyInfo.cs
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\obj\Debug\netcoreapp3.1\EasyPeasyDataModel.dll
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\obj\Debug\netcoreapp3.1\EasyPeasyDataModel.pdb
+C:\Users\Apo\source\repos\EasyPeasy\EasyPeasySolution\EasyPeasyDataModel\obj\Debug\netcoreapp3.1\EasyPeasyDataModel.csproj.CoreCompileInputs.cache
